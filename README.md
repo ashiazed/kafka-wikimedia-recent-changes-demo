@@ -1,6 +1,6 @@
 # Kafka producer/consumer demo
 
-An example of a Kafka producer that sends Wikimedia recent chnages to a topic,
+An example of a Kafka producer that sends Wikimedia recent changes to a topic,
 and a consumer that indexes the data into Elasticsearch
 
 Bring up the containers
